@@ -1,6 +1,6 @@
 class Theme1 {
-    primaryColor = '#000000';
-    secondaryColor= '#FFFFFF';
-    backgroundColor= '#FFFFFF';
-    textColor= '#000000';
+    primaryColor ='#D9D9D9';
+    backgroundColor= '#0A192F';
+    textColor= '#64FFDA';
 }
+export default Theme1;
